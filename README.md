@@ -127,9 +127,6 @@ only provided so that you can easily and quickly try out CORS Anywhere. To ensur
 stays available to everyone, the number of requests per period is limited, except for requests from
 some explicitly whitelisted origins.
 
-**Note: as of February 2021, access to the demo server requires an opt-in**,
-see: https://github.com/Rob--W/cors-anywhere/issues/301
-
 If you expect lots of traffic, please host your own instance of CORS Anywhere, and make sure that
 the CORS Anywhere server only whitelists your site to prevent others from using your instance of
 CORS Anywhere as an open proxy.
